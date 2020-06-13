@@ -17,7 +17,7 @@
   - 014: <i>a primer for the small weird loves, pt. 2</i>
   - 015: <i>a primer for the small weird loves, pt. 3</i>
   - 016: <i>a primer for the small weird loves, pt. 4</i>
-  - 017: <i>a primer for the small weird loves, pt. 5,6</i>
+  - 017: <i>a primer for the small weird loves, pt. 5, 6</i>
   - 018: <i>a primer for the small weird loves, pt. 7</i>
   
 # converting to epub
