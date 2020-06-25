@@ -1,4 +1,4 @@
-# book list
+# book list :blue_heart:
 - <b>crush - richard siken</b>
   - 000: <i>scheherazade; dirty valentine</i>
   - 001: <i>little beast, pt. 1</i>
