@@ -21,5 +21,6 @@
   - 018: <i>a primer for the small weird loves, pt. 7</i>
   
 # converting to epub
-- create a folder: [name of book].zip
-  - change the file format to epub after you are done editing it
+1 create a folder: [name of book].zip
+2 drag contents inside
+3 change the file format to epub after you are done editing it
